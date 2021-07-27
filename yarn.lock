@@ -21138,21 +21138,18 @@ webpack-sources@^1.4.0, webpack-sources@^1.4.1, webpack-sources@^1.4.3:
     source-list-map "^2.0.0"
     source-map "~0.6.1"
 
-webpack-sources@^2.1.1, webpack-sources@^2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/webpack-sources/-/webpack-sources-2.2.0.tgz#058926f39e3d443193b6c31547229806ffd02bac"
-  integrity sha512-bQsA24JLwcnWGArOKUxYKhX3Mz/nK1Xf6hxullKERyktjNMC4x8koOeaDNTA2fEJ09BdWLbM/iTW0ithREUP0w==
-  dependencies:
-    source-list-map "^2.0.1"
-    source-map "^0.6.1"
-
-webpack-sources@^2.3.0:
+webpack-sources@^2.1.1, webpack-sources@^2.3.0:
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/webpack-sources/-/webpack-sources-2.3.0.tgz#9ed2de69b25143a4c18847586ad9eccb19278cfa"
   integrity sha512-WyOdtwSvOML1kbgtXbTDnEW0jkJ7hZr/bDByIwszhWd/4XX1A3XMkrbFMsuH4+/MfLlZCUzlAdg4r7jaGKEIgQ==
   dependencies:
     source-list-map "^2.0.1"
     source-map "^0.6.1"
+
+webpack-sources@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/webpack-sources/-/webpack-sources-3.0.0.tgz#aa8fbdbc6beee44e4131c3c3fb90dcbccec01631"
+  integrity sha512-RGfE5xRC0HIUTj8flXbBJWONiKRndwZGcMX6WgD1VwdT9FJqARhxx1sdZvMiox0e28jAb4jIKLQxFSCVz/mD5A==
 
 webpack-virtual-modules@^0.2.2:
   version "0.2.2"
