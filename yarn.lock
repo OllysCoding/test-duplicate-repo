@@ -1740,15 +1740,10 @@
   resolved "https://registry.yarnpkg.com/@guardian/src-icons/-/src-icons-3.3.0.tgz#795933179be040feba0a58b995d76701cc954dcf"
   integrity sha512-sUFGSm0emuE8MM+/fqcCBPOgo+nOlcCmGxt9Za4SI34ujzmr78ossPfpLjaW+2+hAVeTA9+/DOEFdVvA11vaFg==
 
-"@guardian/src-icons@^3.6.0":
-  version "3.6.0"
-  resolved "https://registry.yarnpkg.com/@guardian/src-icons/-/src-icons-3.6.0.tgz#f093cd554f928e189e4d6ac069c6c7b5e65558ff"
-  integrity sha512-2j8TrRFyFbFBYGBdfL6ExCh0Bqgga0coi7H40tb3flV4UazyQqAGYuUb2r8Z38MJfTpotcPLxkA0uU6LY7VP7w==
-
-"@guardian/src-icons@^3.7.0":
-  version "3.7.0"
-  resolved "https://registry.yarnpkg.com/@guardian/src-icons/-/src-icons-3.7.0.tgz#580688167d00d9eed601044867d67dcd48b210c6"
-  integrity sha512-5tm8YlQpVGpuBN5hJ2Fi9xWkgCAvfX1IrzpLtLg4pLa6UmP1CIvwjlQocDBWRx2BItifU5UKtEpqiEvJdusK1g==
+"@guardian/src-icons@^3.12.0", "@guardian/src-icons@^3.6.0":
+  version "3.12.0"
+  resolved "https://registry.yarnpkg.com/@guardian/src-icons/-/src-icons-3.12.0.tgz#6e48bdd07dde7827a08783b1638c064dbfbeabb8"
+  integrity sha512-WVtORlIvlSzGeEHV2IpaoaxMkzwe/6C+hRlk6dcWhNRgL4IKUdZiShK28lBqjfxTrqacplCeGfpOjEOfqCa9LQ==
 
 "@guardian/src-label@^3.6.0":
   version "3.6.0"
